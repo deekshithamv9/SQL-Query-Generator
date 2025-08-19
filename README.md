@@ -1,27 +1,21 @@
 # SQL Query Generator
 
-## Project Overview
+## 📌 Project Overview
 
-SQL Query Generator is a Streamlit + Flask-based web application that allows users to convert natural language text into SQL queries and execute them on a relational database.
+**SQL Query Generator** is a **Streamlit + Flask-based web application** that enables users to convert **natural language text** into **SQL queries** and execute them on a relational database.
 
-Instead of writing complex SQL manually, users can simply type plain English commands like:
+Instead of writing complex SQL manually, users can simply type plain English commands such as:
 
-“List all employees hired after 2022”
-
-“Show departments with more than 10 employees”
-
-“Find employees working on the ‘Website Revamp’ project”
+* *“List all employees hired after 2022”*
+* *“Show departments with more than 10 employees”*
+* *“Find employees working on the ‘Website Revamp’ project”*
 
 The system will then:
 
-Generate the SQL query automatically,
-
-Execute it on the database, and
-
-Display the results in a simple, user-friendly interface.
-
-Additionally, it provides step-by-step explanations of queries so that learners can understand how SQL works.
-
+1.  **Generate** the SQL query automatically
+2.  **Execute** it on the database
+3.  **Display** the results in a simple, user-friendly interface
+4.   Additionally, the system provides step-by-step **explanations** of the generated queries
 ---
 
 ## Features
