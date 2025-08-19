@@ -3,4 +3,4 @@
 .env
 __pycache__/
 backend/config.py
-frontend/config.py
+frontend/backend_config.py
